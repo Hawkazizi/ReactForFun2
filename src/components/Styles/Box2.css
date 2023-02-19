@@ -1,0 +1,9 @@
+.Box2 {
+  border: 3px solid blueviolet;
+  display: flex;
+  margin: 5px;
+  /* margin: 10rem; */
+
+  width: 20rem;
+  height: 10rem;
+}

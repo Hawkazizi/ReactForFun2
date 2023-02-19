@@ -1,0 +1,12 @@
+.sticky {
+  border: 3px solid aqua;
+  /* position: absolute; */
+  position: sticky;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+  margin: 2px 80%;
+  width: 300px;
+  height: 10rem;
+  padding: 5px;
+}
